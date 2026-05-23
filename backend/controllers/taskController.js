@@ -10,8 +10,8 @@ const getTasks = async (req, res) => {
 
         res.json(tasks);
     } catch (error) {
-        console.error('Get tasks error:', error);
-        res.status(500).json({ detail: error.message });
+        console.error('Failed to fetch tasks:', error);
+        res.status(500).json({detail: 'Unable to fetch tasks right now'});
     }
 };
 
