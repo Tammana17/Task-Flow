@@ -42,7 +42,9 @@ Runs on `http://localhost:3000`
 
 ## Features
 
--   **Kanban Board**: Drag-and-drop your applications through different stages.
+-   **Kanban Board**: Organize job applications with drag-and-drop workflow stages.
 -   **Smart Reminders**: Get notified about upcoming interviews.
 -   **Company Insights**: Instantly see details about companies you apply to.
 -   **Task Management**: Keep track of everything you need to do for each application.
+- **Responsive User Interface** — Optimized experience across desktop and mobile devices.
+- **Dockerized Deployment** — Easy setup and deployment using Docker support.
