@@ -75,7 +75,7 @@ export default function Dashboard() {
     <Layout>
       <div className="space-y-6 sm:space-y-8" data-testid="dashboard-container">
         <div className="space-y-2">
-          <h1 className="text-3xl sm:text-4xl font-heading font-bold tracking-tight">Dashboard</h1>
+          <h1 className="text-3xl sm:text-4xl font-heading font-bold tracking-tight">TaskFlow Dashboard</h1>
           <p className="text-sm sm:text-base text-muted-foreground">Welcome back! Here's your overview.</p>
         </div>
 
